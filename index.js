@@ -8,12 +8,12 @@ const questions = [
     {
         type: "input",
         name: "title",
-        messsage: "What is the title of this project?"
+        message: "What is the title of this project?"
     },
     {
         type: "input",
         name: "description",
-        messsage: "Give a brief summary of the project?"
+        message: "Give a brief summary of the project?"
     }
 ];
 
